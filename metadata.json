@@ -1,0 +1,7 @@
+{
+  "name": "NeonSight: AI Aim Trainer",
+  "description": "A futuristic, gesture-controlled FPS aim trainer powered by Gemini AI for personalized coaching.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
